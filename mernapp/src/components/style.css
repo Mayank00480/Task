@@ -1,0 +1,25 @@
+img{
+    height:400px;
+    border-radius: 20px;
+    width:40%
+}
+.slide{
+    width:40%;    
+    position:relative;
+    top:150px;
+    border-radius: 20px;
+    left:100px;
+}
+p{
+    position:absolute;
+    top:500px;
+    float: right;
+}
+.Text{
+    position:relative;
+    bottom:750px;
+    left:900px;
+    height:500px;
+    width:500px;
+}
+/*  <span className="carousel-control-next-icon" aria-hidden="true"></span>*/
